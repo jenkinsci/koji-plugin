@@ -11,9 +11,7 @@
   <packaging>hpi</packaging>
   <name>Koji plugin</name>
   <description>Integrates Koji build system with Jenkins</description>
-  <!--
-   <url>http://wiki.jenkins-ci.org/display/JENKINS/Koji+Plugin</url>
-  -->
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Koji+Plugin</url>
 
   <developers>
     <developer>
