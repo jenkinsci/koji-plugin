@@ -6,12 +6,12 @@
     <version>1.554.1</version><!-- which version of Jenkins is this plugin built against? -->
   </parent>
 
-  <artifactId>koji-plugin</artifactId>
+  <artifactId>koji</artifactId>
   <version>0.3-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Koji plugin</name>
   <description>Integrates Koji build system with Jenkins</description>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/Koji+Plugin</url>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/Koji+Plugin</url>
 
   <developers>
     <developer>
