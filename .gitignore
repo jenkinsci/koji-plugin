@@ -21,6 +21,10 @@
 *.iws
 *.iml
 
+## Maven release files 
+pom.xml.releaseBackup
+release.properties
+
 target/
 
 work/
